@@ -1,14 +1,61 @@
-# Loan Approval Prediction
+🏦 Loan Approval Prediction
 
-A Streamlit application that explores loan application data and predicts approval outcomes with Decision Tree and Random Forest classifiers.
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-Data%20Analysis-blue?style=for-the-badge" alt="Python Data Analysis">
+  <img src="https://img.shields.io/badge/AI%2FML-CLASSIFICATION-orange?style=for-the-badge" alt="AI ML Classification">
+</p>
 
-## Features
+📌 Project Overview
 
-- Upload a loan approval CSV file
-- Data preprocessing and asset feature engineering
-- Exploratory charts and correlation analysis
-- Decision Tree and Random Forest classification
-- Confusion matrices, classification reports, and evaluation metrics
+Loan Approval Prediction is an AI/ML and data analysis project developed to analyze loan application data and predict loan approval outcomes.
+
+The project includes data preprocessing, exploratory data analysis, visualization and machine learning classification using Decision Tree and Random Forest models.
+
+🛠️ Technologies
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+Streamlit
+
+Jupyter Notebook
+
+🤖 Machine Learning
+
+Decision Tree Classifier
+
+Random Forest Classifier
+
+🔄 Workflow
+
+Dataset → Data Preprocessing → Exploratory Data Analysis → Feature Engineering → Model Training → Model Evaluation → Loan Approval Analysis
+
+✨ Key Features
+
+CSV dataset upload
+
+Data preprocessing
+
+Exploratory data analysis
+
+Data visualization
+
+Classification models
+
+Confusion matrix
+
+Classification report
+
+Model evaluation
 
 ## Run locally
 
