@@ -48,6 +48,32 @@ Dataset → Data Preprocessing → Exploratory Data Analysis → Feature Enginee
 pip install streamlit pandas numpy matplotlib seaborn scikit-learn
 streamlit run LAP.py
 ```
+## Run locally
+
+```bash
+python -m venv .venv
+.venv\\Scripts\\activate
+pip install -r requirements.txt
+streamlit run LAP.py
+```
+
+Use `loan_approval_dataset.csv` with the uploader to run the analysis.
+
+## Project files
+
+- `LAP.py`: Streamlit application
+- `loan_approval_dataset.csv`: Sample dataset
+- `Loan Approval Prediction.ipynb`: Exploratory notebook
+- `short description.md`: Project background and data dictionary
+- `requirements.txt`: Python dependencies
+
+## Notes
+
+The optional `process.jpg` and `approved.jpg` illustrations are displayed when present. The app runs without them.
+
+## License
+
+This project is provided for educational and demonstration purposes.
 
 ## 👨‍💻 Project Category
 
