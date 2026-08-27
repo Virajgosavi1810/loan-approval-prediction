@@ -1,4 +1,4 @@
-🏦 <b>Loan Approval Prediction</b>
+🏦 Loan Approval Prediction
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-Data%20Analysis-blue?style=for-the-badge" alt="Python Data Analysis">
@@ -13,27 +13,27 @@ The project includes data preprocessing, exploratory data analysis, visualizatio
 
 🛠️ Technologies
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-Streamlit
+- Streamlit
 
-Jupyter Notebook
+- Jupyter Notebook
 
 🤖 Machine Learning
 
-Decision Tree Classifier
+- Decision Tree Classifier
 
-Random Forest Classifier
+- Random Forest Classifier
 
 🔄 Workflow
 
@@ -41,21 +41,26 @@ Dataset → Data Preprocessing → Exploratory Data Analysis → Feature Enginee
 
 ✨ Key Features
 
-CSV dataset upload
+- CSV dataset upload
 
-Data preprocessing
+- Data preprocessing
 
-Exploratory data analysis
+- Exploratory data analysis
 
-Data visualization
+- Data visualization
 
-Classification models
+- Classification models
 
-Confusion matrix
+- Confusion matrix
 
-Classification report
+- Classification report
 
-Model evaluation
+- Model evaluation
+
+🚀 Run the Project
+
+pip install streamlit pandas numpy matplotlib seaborn scikit-learn
+streamlit run LAP.py
 
 ## Run locally
 
@@ -83,3 +88,4 @@ The optional `process.jpg` and `approved.jpg` illustrations are displayed when p
 ## License
 
 This project is provided for educational and demonstration purposes.
+
