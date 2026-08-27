@@ -1,4 +1,4 @@
-🏦 Loan Approval Prediction
+🏦 <b>Loan Approval Prediction</b>
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-Data%20Analysis-blue?style=for-the-badge" alt="Python Data Analysis">
